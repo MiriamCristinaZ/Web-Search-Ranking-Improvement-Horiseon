@@ -21,8 +21,8 @@ The following changes have been made to the provided code:
 
    - Updated the stylesheet link in the HTML to match the changes made in the HTML file.
    - Minor adjustments may have been made to the CSS to ensure it works seamlessly with the updated HTML structure.
+   - CSS selectors and properties have been restructured to follow a more semantic structure.
+   - Similar sections and styles have been grouped together for improved organization.
 
-## Usage
-
-To use this project, follow the following link:
+To view this project, follow the below link:
 MiriamCristinaZ.github.io/Web-Search-Ranking-Improvement-Horiseon
