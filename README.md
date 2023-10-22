@@ -8,7 +8,7 @@ The Horiseon website is designed to promote digital presence optimization, onlin
 
 ## Screenshot
 
-![Horiseon Website Screenshot](screenshots\webCaptureHoriseon.jpeg)
+![Horiseon Website Screenshot](screenshots/webCaptureHoriseon.jpeg)
 
 ## Changes Made
 
