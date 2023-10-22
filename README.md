@@ -6,6 +6,10 @@ Welcome to the Horiseon website project. This README file provides an overview o
 
 The Horiseon website is designed to promote digital presence optimization, online reputation management, and social media marketing services. It offers information on these services and their benefits to businesses.
 
+## Screenshot
+
+![Horiseon Website Screenshot](webCaptureHoriseon.jpeg)
+
 ## Changes Made
 
 The following changes have been made to the provided code:
@@ -24,5 +28,7 @@ The following changes have been made to the provided code:
    - CSS selectors and properties have been restructured to follow a more semantic structure.
    - Similar sections and styles have been grouped together for improved organization.
 
-To view this project, follow the below link:
+## Deployed Application
+
+You can access the deployed application:
 MiriamCristinaZ.github.io/Web-Search-Ranking-Improvement-Horiseon
