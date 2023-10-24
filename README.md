@@ -31,4 +31,4 @@ The following changes have been made to the provided code:
 ## Deployed Application
 
 You can access the deployed application:
-MiriamCristinaZ.github.io/Web-Search-Ranking-Improvement-Horiseon
+<https://miriamcristinaz.github.io/Web-Search-Ranking-Improvement-Horiseon/>
